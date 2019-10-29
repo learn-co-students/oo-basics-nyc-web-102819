@@ -3,8 +3,8 @@ class Shoe
     def initlialize(brand)
         @brand = brand
     end
-   def title
-    @title
+   def brand
+    @brand
    end
 
 end
